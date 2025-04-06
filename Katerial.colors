@@ -22,11 +22,11 @@ IntensityEffect=0
 BackgroundAlternate=255,255,255
 BackgroundNormal=254,254,254
 DecorationFocus=26,115,232
-DecorationHover=244,67,54
+DecorationHover=255,218,212
 ForegroundActive=61,174,233
 ForegroundInactive=177,177,177
 ForegroundLink=96,159,240
-ForegroundNegative=244,67,54
+ForegroundNegative=255,218,212
 ForegroundNeutral=255,217,3
 ForegroundNormal=68,68,68
 ForegroundPositive=76,175,80
@@ -47,14 +47,14 @@ ForegroundPositive=17,209,22
 ForegroundVisited=156,39,176
 
 [Colors:Selection]
-BackgroundAlternate=244,67,54
-BackgroundNormal=244,67,54
-DecorationFocus=244,67,54
-DecorationHover=244,67,54
+BackgroundAlternate=255,218,212
+BackgroundNormal=255,218,212
+DecorationFocus=255,218,212
+DecorationHover=255,218,212
 ForegroundActive=252,252,252
 ForegroundInactive=251,198,194
 ForegroundLink=96,159,240
-ForegroundNegative=244,67,54
+ForegroundNegative=255,218,212
 ForegroundNeutral=255,217,3
 ForegroundNormal=255,255,255
 ForegroundPositive=76,175,80
@@ -63,8 +63,8 @@ ForegroundVisited=140,90,204
 [Colors:Tooltip]
 BackgroundAlternate=97,97,97
 BackgroundNormal=254,254,254
-DecorationFocus=244,67,54
-DecorationHover=244,67,54
+DecorationFocus=255,218,212
+DecorationHover=255,218,212
 ForegroundActive=61,174,233
 ForegroundInactive=177,177,177
 ForegroundLink=96,159,240
@@ -77,8 +77,8 @@ ForegroundVisited=140,90,204
 [Colors:View]
 BackgroundAlternate=239,240,241
 BackgroundNormal=254,254,254
-DecorationFocus=244,67,54
-DecorationHover=244,67,54
+DecorationFocus=255,218,212
+DecorationHover=255,218,212
 ForegroundActive=61,174,233
 ForegroundInactive=177,177,177
 ForegroundLink=96,159,240
@@ -91,8 +91,8 @@ ForegroundVisited=140,90,204
 [Colors:Window]
 BackgroundAlternate=242,242,242
 BackgroundNormal=254,254,254
-DecorationFocus=244,67,54
-DecorationHover=244,67,54
+DecorationFocus=254,254,254
+DecorationHover=254,254,254
 ForegroundActive=61,174,233
 ForegroundInactive=177,177,177
 ForegroundLink=96,159,240
@@ -103,17 +103,17 @@ ForegroundPositive=76,175,80
 ForegroundVisited=140,90,204
 
 [General]
-ColorScheme=NovaAmare
-Name=Nova Amare
+ColorScheme=Katerial
+Name=Katerial
 shadeSortColumn=true
 
 [KDE]
 contrast=4
 
 [WM]
-activeBackground=244,67,54
-activeBlend=244,67,54
+activeBackground=255,218,212
+activeBlend=255,218,212
 activeForeground=254,254,254
-inactiveBackground=244,67,54
-inactiveBlend=251,198,194
-inactiveForeground=251,198,194
+inactiveBackground=255,218,212
+inactiveBlend=255,237,234
+inactiveForeground=255,237,234
