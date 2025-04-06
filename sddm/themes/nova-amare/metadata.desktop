@@ -1,0 +1,14 @@
+[SddmGreeterTheme]
+Name=Nova Amare
+Description=rounded material style
+Author=Alexey Varfolomeev
+Copyright=(c) 2022, Alexey Varfolomeev
+License=ISC
+Type=sddm-theme
+Version=20220525
+Website=https://github.com/varlesh/nova-kde
+Screenshot=screenshot.png
+MainScript=Main.qml
+ConfigFile=theme.conf
+Theme-Id=nova-amare
+Theme-API=2.0
