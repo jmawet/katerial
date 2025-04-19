@@ -11,7 +11,7 @@ The goal of this project is to create a modern theme for KDE Plasma based on Mat
 
 - Color scheme: Katerial
 - Application Style: Kvantum (Katerial = Nova Amare)
-- Plasma Style: Nova Color
+- Plasma Style: Katerial (=Nova Color)
 - Window Decorations: Katerial (= Nova Amare)
 - Icons: Papirus
 - Cursor: Breeze Light
