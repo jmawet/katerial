@@ -1,11 +1,11 @@
 [General]
 ActiveFocusedTabColor=254,254,254
-ActiveTextColor=254,254,254
+ActiveTextColor=125,125,125
 ActiveTextShadowColor=0,0,0,255
 ActiveUnfocusedTabColor=254,254,254
 Animation=0
 InactiveFocusedTabColor=251,198,194
-InactiveTextColor=251,198,194
+InactiveTextColor=157,157,157
 InactiveTextShadowColor=0,0,0,255
 InactiveUnfocusedTabColor=251,198,194
 LeftButtons=XIA
