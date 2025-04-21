@@ -69,12 +69,12 @@ x11drag=menubar_and_primary_toolbar
 [GeneralColors]
 alt.base.color=#ffffff
 base.color=#fefefe
-button.color=#f44336
+button.color=#ffdad4
 button.text.color=#444444
 dark.color=#4444441a
 disabled.text.color=#4444447e
-highlight.color=#f44336
-highlight.text.color=#fefefe
+highlight.color=#ffdad4
+highlight.text.color=#44444
 inactive.highlight.color=#fefefe
 light.color=#ffffff
 link.color=#8ab4f8
