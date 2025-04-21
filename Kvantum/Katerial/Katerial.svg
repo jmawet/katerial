@@ -18,11 +18,11 @@
      borderopacity="0.25"
      inkscape:showpageshadow="2"
      inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
+     inkscape:pagecheckerboard="true"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="7.3652242"
-     inkscape:cx="121.31335"
-     inkscape:cy="944.98141"
+     inkscape:zoom="2.604"
+     inkscape:cx="208.71736"
+     inkscape:cy="28.609831"
      inkscape:window-width="2743"
      inkscape:window-height="1467"
      inkscape:window-x="0"
@@ -5041,51 +5041,51 @@
      d="m 410,130 v 10 h 10 v -10 z" />
   <rect
      id="tbutton-normal-bottom"
-     style="opacity:0.1;fill:#fefefe;fill-opacity:1"
+     style="opacity:0.1;fill:#ffdad4;fill-opacity:1"
      width="8"
      height="8"
      x="40"
      y="33" />
   <rect
      id="tbutton-normal"
-     style="opacity:0.1;fill:#fefefe;fill-opacity:1"
+     style="opacity:0.1;fill:#ffdad4;fill-opacity:1"
      width="8"
      height="8"
      x="40"
      y="25" />
   <rect
      id="tbutton-normal-top"
-     style="opacity:0.1;fill:#fefefe;fill-opacity:1"
+     style="opacity:0.1;fill:#ffdad4;fill-opacity:1"
      width="8"
      height="8"
      x="40"
      y="17" />
   <path
      id="tbutton-normal-topleft"
-     style="opacity:0.1;fill:#fefefe;fill-opacity:1"
+     style="opacity:0.1;fill:#ffdad4;fill-opacity:1"
      d="m 32,25 h 8 v -8 c -8,0 -8,8 -8,8 z" />
   <path
      id="tbutton-normal-bottomleft"
-     style="opacity:0.1;fill:#fefefe;fill-opacity:1"
+     style="opacity:0.1;fill:#ffdad4;fill-opacity:1"
      d="m 32,33 h 8 v 8 c -8,0 -8,-8 -8,-8 z" />
   <rect
      id="tbutton-normal-left"
-     style="opacity:0.1;fill:#fefefe;fill-opacity:1"
+     style="opacity:0.1;fill:#ffdad4;fill-opacity:1"
      width="8"
      height="8"
      x="32"
      y="25" />
   <path
      id="tbutton-normal-topright"
-     style="opacity:0.1;fill:#fefefe;fill-opacity:1"
+     style="opacity:0.1;fill:#ffdad4;fill-opacity:1"
      d="m 56,25 h -8 v -8 c 8,0 8,8 8,8 z" />
   <path
      id="tbutton-normal-bottomright"
-     style="opacity:0.1;fill:#fefefe;fill-opacity:1"
+     style="opacity:0.1;fill:#ffdad4;fill-opacity:1"
      d="m 56,33 h -8 v 8 c 8,0 8,-8 8,-8 z" />
   <rect
      id="tbutton-normal-right"
-     style="opacity:0.1;fill:#fefefe;fill-opacity:1"
+     style="opacity:0.1;fill:#ffdad4;fill-opacity:1"
      width="8"
      height="8"
      x="-56"
@@ -5093,51 +5093,51 @@
      transform="scale(-1,1)" />
   <rect
      id="tbutton-pressed-bottom"
-     style="opacity:0.25;fill:#fefefe;fill-opacity:1"
+     style="opacity:0.5;fill:#ffdad4;fill-opacity:1"
      width="8"
      height="8"
      x="105"
      y="33" />
   <rect
      id="tbutton-pressed"
-     style="opacity:0.25;fill:#fefefe;fill-opacity:1"
+     style="opacity:0.5;fill:#ffdad4;fill-opacity:1"
      width="8"
      height="8"
      x="105"
      y="25" />
   <rect
      id="tbutton-pressed-top"
-     style="opacity:0.25;fill:#fefefe;fill-opacity:1"
+     style="opacity:0.5;fill:#ffdad4;fill-opacity:1"
      width="8"
      height="8"
      x="105"
      y="17" />
   <path
      id="tbutton-pressed-topleft"
-     style="opacity:0.25;fill:#fefefe;fill-opacity:1"
+     style="opacity:0.5;fill:#ffdad4;fill-opacity:1"
      d="m 97,25 h 8 v -8 c -8,0 -8,8 -8,8 z" />
   <path
      id="tbutton-pressed-bottomleft"
-     style="opacity:0.25;fill:#fefefe;fill-opacity:1"
+     style="opacity:0.5;fill:#ffdad4;fill-opacity:1"
      d="m 97,33 h 8 v 8 c -8,0 -8,-8 -8,-8 z" />
   <rect
      id="tbutton-pressed-left"
-     style="opacity:0.25;fill:#fefefe;fill-opacity:1"
+     style="opacity:0.5;fill:#ffdad4;fill-opacity:1"
      width="8"
      height="8"
      x="97"
      y="25" />
   <path
      id="tbutton-pressed-topright"
-     style="opacity:0.25;fill:#fefefe;fill-opacity:1"
+     style="opacity:0.5;fill:#ffdad4;fill-opacity:1"
      d="m 121,25 h -8 v -8 c 8,0 8,8 8,8 z" />
   <path
      id="tbutton-pressed-bottomright"
-     style="opacity:0.25;fill:#fefefe;fill-opacity:1"
+     style="opacity:0.5;fill:#ffdad4;fill-opacity:1"
      d="m 121,33 h -8 v 8 c 8,0 8,-8 8,-8 z" />
   <rect
      id="tbutton-pressed-right"
-     style="opacity:0.25;fill:#fefefe;fill-opacity:1"
+     style="opacity:0.5;fill:#ffdad4;fill-opacity:1"
      width="8"
      height="8"
      x="-121"
@@ -5152,51 +5152,51 @@
      y="130" />
   <rect
      id="tbutton-toggled-bottom"
-     style="opacity:0.25;fill:#fefefe;fill-opacity:1"
+     style="opacity:0.5;fill:#ffdad4;fill-opacity:1"
      width="8"
      height="8"
      x="134"
      y="33" />
   <rect
      id="tbutton-toggled"
-     style="opacity:0.25;fill:#fefefe;fill-opacity:1"
+     style="opacity:0.5;fill:#ffdad4;fill-opacity:1"
      width="8"
      height="8"
      x="134"
      y="25" />
   <rect
      id="tbutton-toggled-top"
-     style="opacity:0.25;fill:#fefefe;fill-opacity:1"
+     style="opacity:0.5;fill:#ffdad4;fill-opacity:1"
      width="8"
      height="8"
      x="134"
      y="17" />
   <path
      id="tbutton-toggled-topleft"
-     style="opacity:0.25;fill:#fefefe;fill-opacity:1"
+     style="opacity:0.5;fill:#ffdad4;fill-opacity:1"
      d="m 126,25 h 8 v -8 c -8,0 -8,8 -8,8 z" />
   <path
      id="tbutton-toggled-bottomleft"
-     style="opacity:0.25;fill:#fefefe;fill-opacity:1"
+     style="opacity:0.5;fill:#ffdad4;fill-opacity:1"
      d="m 126,33 h 8 v 8 c -8,0 -8,-8 -8,-8 z" />
   <rect
      id="tbutton-toggled-left"
-     style="opacity:0.25;fill:#fefefe;fill-opacity:1"
+     style="opacity:0.5;fill:#ffdad4;fill-opacity:1"
      width="8"
      height="8"
      x="126"
      y="25" />
   <path
      id="tbutton-toggled-topright"
-     style="opacity:0.25;fill:#fefefe;fill-opacity:1"
+     style="opacity:0.5;fill:#ffdad4;fill-opacity:1"
      d="m 150,25 h -8 v -8 c 8,0 8,8 8,8 z" />
   <path
      id="tbutton-toggled-bottomright"
-     style="opacity:0.25;fill:#fefefe;fill-opacity:1"
+     style="opacity:0.5;fill:#ffdad4;fill-opacity:1"
      d="m 150,33 h -8 v 8 c 8,0 8,-8 8,-8 z" />
   <rect
      id="tbutton-toggled-right"
-     style="opacity:0.25;fill:#fefefe;fill-opacity:1"
+     style="opacity:0.5;fill:#ffdad4;fill-opacity:1"
      width="8"
      height="8"
      x="-150"
@@ -5400,51 +5400,51 @@
      y="120" />
   <rect
      id="tbutton-focused-bottom"
-     style="opacity:0.25;fill:#fefefe;fill-opacity:1"
+     style="opacity:0.5;fill:#ffdad4;fill-opacity:1"
      width="8"
      height="8"
      x="73"
      y="33" />
   <rect
      id="tbutton-focused"
-     style="opacity:0.25;fill:#fefefe;fill-opacity:1"
+     style="opacity:0.5;fill:#ffdad4;fill-opacity:1"
      width="8"
      height="8"
      x="73"
      y="25" />
   <rect
      id="tbutton-focused-top"
-     style="opacity:0.25;fill:#fefefe;fill-opacity:1"
+     style="opacity:0.5;fill:#ffdad4;fill-opacity:1"
      width="8"
      height="8"
      x="73"
      y="17" />
   <path
      id="tbutton-focused-topleft"
-     style="opacity:0.25;fill:#fefefe;fill-opacity:1"
+     style="opacity:0.5;fill:#ffdad4;fill-opacity:1"
      d="m 65,25 h 8 v -8 c -8,0 -8,8 -8,8 z" />
   <path
      id="tbutton-focused-bottomleft"
-     style="opacity:0.25;fill:#fefefe;fill-opacity:1"
+     style="opacity:0.5;fill:#ffdad4;fill-opacity:1"
      d="m 65,33 h 8 v 8 c -8,0 -8,-8 -8,-8 z" />
   <rect
      id="tbutton-focused-left"
-     style="opacity:0.25;fill:#fefefe;fill-opacity:1"
+     style="opacity:0.5;fill:#ffdad4;fill-opacity:1"
      width="8"
      height="8"
      x="65"
      y="25" />
   <path
      id="tbutton-focused-topright"
-     style="opacity:0.25;fill:#fefefe;fill-opacity:1"
+     style="opacity:0.5;fill:#ffdad4;fill-opacity:1"
      d="m 89,25 h -8 v -8 c 8,0 8,8 8,8 z" />
   <path
      id="tbutton-focused-bottomright"
-     style="opacity:0.25;fill:#fefefe;fill-opacity:1"
+     style="opacity:0.5;fill:#ffdad4;fill-opacity:1"
      d="m 89,33 h -8 v 8 c 8,0 8,-8 8,-8 z" />
   <rect
      id="tbutton-focused-right"
-     style="opacity:0.25;fill:#fefefe;fill-opacity:1"
+     style="opacity:0.5;fill:#ffdad4;fill-opacity:1"
      width="8"
      height="8"
      x="-89"

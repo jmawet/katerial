@@ -22,7 +22,7 @@ The goal of this project is to create a modern theme for KDE Plasma based on Mat
 - Copy the directory: aurorae/themes/Katerial/ to ~/.local/share/aurorae/themes/, then set 'window decorations'
 - Copy the directory: plasma/desktoptheme/Katerial/ to ~/.local/share/plasmaqa/desktoptheme/, then set 'plasma style'
 - Copy the file: Katerial.colors to ~/.local/share/color-schemes/, then set 'color scheme'
-- Install Kvantum, set as application style. In Kvantum, install and load Kvantum/Katerial directory
+- Install Kvantum, set as application style. In Kvantum, install and load Kvantum/Katerial/ directory
 - Download and install Papirus icon set
 - (Optional) set wallpaper included in this repo
 
