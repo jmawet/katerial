@@ -7,12 +7,12 @@ The goal of this project is to create a modern theme for KDE Plasma based on Mat
 
 ## WORK IN PROGRESS
 
-<img width="1021" alt="image" src="https://github.com/user-attachments/assets/17a0a5a3-b5df-4099-a38f-cf0b6011bf9b" />
+![katerial_041825](https://github.com/user-attachments/assets/e501a0fe-b1dd-4c76-907d-cb8b82f3e76d)
 
 - Color scheme: Katerial
-- Application Style: Kvantum (Katerial = Nova Amare)
-- Plasma Style: Katerial (=Nova Color)
-- Window Decorations: Katerial (= Nova Amare)
+- Application Style: Kvantum (Katerial)
+- Plasma Style: Katerial
+- Window Decorations: Katerial
 - Icons: Papirus
 - Cursor: Breeze Light
 - Wallpaper: Katerial
@@ -20,18 +20,17 @@ The goal of this project is to create a modern theme for KDE Plasma based on Mat
 ## To install:
 - Clone this repo
 - Copy the directory: aurorae/themes/Katerial/ to ~/.local/share/aurorae/themes/, then set 'window decorations'
-- Copy the directory: plasma/desktoptheme/Nova-Color/ to ~/.local/share/plasmaqa/desktoptheme/ (or install Nova Color theme from KDE Store), then set 'plasma style'
+- Copy the directory: plasma/desktoptheme/Katerial/ to ~/.local/share/plasmaqa/desktoptheme/, then set 'plasma style'
 - Copy the file: Katerial.colors to ~/.local/share/color-schemes/, then set 'color scheme'
 - Install Kvantum, set as application style. In Kvantum, install and load Kvantum/Katerial directory
 - Download and install Papirus icon set
 - (Optional) set wallpaper included in this repo
 
 ## To be updated:
-- Kvantum theme (?)
-- Window decorations (corner roundness, colors, materia+missing icons)
+- Color scheme (fill in gaps)
+- Window decorations (corner roundness)
 - Plasma Style (?)
 - Cursor (?)
-- Konsole
 - Panel
 - SDDM
 - Alternate color schemes
