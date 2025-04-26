@@ -20,9 +20,9 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="true"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="13.02"
-     inkscape:cx="258.75576"
-     inkscape:cy="37.634409"
+     inkscape:zoom="4.6032652"
+     inkscape:cx="156.62795"
+     inkscape:cy="94.280904"
      inkscape:window-width="2743"
      inkscape:window-height="1467"
      inkscape:window-x="0"
@@ -312,7 +312,7 @@
        y2="114"
        gradientUnits="userSpaceOnUse"
        xlink:href="#linearGradient48"
-       gradientTransform="matrix(1.3036098,0,0,1.3,-28.683718,-22.2)" />
+       gradientTransform="matrix(1.3036099,0,0,1.3,-28.683724,-22.200002)" />
     <linearGradient
        id="linearGradient943"
        x1="52"
@@ -337,7 +337,7 @@
        y2="114"
        gradientUnits="userSpaceOnUse"
        xlink:href="#linearGradient50"
-       gradientTransform="matrix(1.3000002,0,0,1.3,-84.600052,-22.199999)" />
+       gradientTransform="matrix(1.3000001,0,0,1.3,-84.600034,-22.200001)" />
     <linearGradient
        id="linearGradient973"
        x1="52"
@@ -374,7 +374,7 @@
   </g>
   <g
      id="decoration-right"
-     transform="matrix(-0.77777778,0,0,1.3,289.11111,-41.7)">
+     transform="matrix(-0.77777751,0,0,1.3,289.11107,-41.7)">
     <path
        style="fill:url(#linearGradient3298)"
        d="m 130,49 v 80 h 30 V 49 Z"
@@ -410,10 +410,10 @@
   <rect
      id="decoration-center"
      style="display:inline;fill:url(#linearGradient935);stroke-width:1.3018"
-     width="104.28879"
+     width="104.2888"
      height="104"
      x="41.711212"
-     y="22" />
+     y="21.999998" />
   <g
      id="decoration-top"
      transform="matrix(1.3025345,0,0,0.64705883,-197.86911,-9.7058839)">
@@ -453,7 +453,7 @@
   </g>
   <g
      id="decoration-bottom"
-     transform="matrix(1.3026497,0,0,0.86046513,-197.89952,14.999997)">
+     transform="matrix(1.3026497,0,0,0.86046514,-197.89952,14.999995)">
     <path
        style="fill:url(#linearGradient1022)"
        d="m 184,153 v 62 h 80 v -62 z"
@@ -469,7 +469,7 @@
   </g>
   <g
      id="decoration-left"
-     transform="matrix(0.77402287,0,0,1.3,-100.62297,-41.700002)">
+     transform="matrix(0.7724298,0,0,1.3,-100.41587,-41.700002)">
     <path
        style="fill:url(#linearGradient1007)"
        d="m 130,49 v 80 h 30 V 49 Z"
@@ -487,7 +487,7 @@
      id="hint-top-margin"
      style="fill:#00ff29;stroke-width:0.804401"
      width="4"
-     height="15.529411"
+     height="15.52941"
      x="92"
      y="6.4705877" />
   <rect
@@ -529,7 +529,7 @@
      id="hint-right-margin"
      style="fill:#00ff29;stroke-width:0.881919"
      width="4"
-     height="18.66667"
+     height="18.66666"
      x="72"
      y="-164.66667"
      transform="rotate(90)" />
@@ -559,7 +559,7 @@
      width="104.00002"
      height="104"
      x="230"
-     y="22" />
+     y="21.999998" />
   <g
      id="decoration-inactive-top"
      transform="matrix(1.2999999,0,0,0.64705886,-9.1999786,-9.7058843)">

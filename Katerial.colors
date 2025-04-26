@@ -51,7 +51,7 @@ BackgroundAlternate=255,218,212
 BackgroundNormal=255,218,212
 DecorationFocus=255,218,212
 DecorationHover=255,218,212
-ForegroundActive=252,252,252
+ForegroundActive=68,68,68
 ForegroundInactive=251,198,194
 ForegroundLink=96,159,240
 ForegroundNegative=255,218,212
@@ -111,9 +111,9 @@ shadeSortColumn=true
 contrast=4
 
 [WM]
-activeBackground=255,218,212
-activeBlend=255,218,212
-activeForeground=254,254,254
-inactiveBackground=255,218,212
-inactiveBlend=255,237,234
-inactiveForeground=255,237,234
+activeBackground=255,255,255
+activeBlend=255,255,255
+activeForeground=68,68,68
+inactiveBackground=255,255,255
+inactiveBlend=255,255,255
+inactiveForeground=177,177,177
