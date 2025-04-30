@@ -7,7 +7,7 @@ The goal of this project is to create a modern theme for KDE Plasma based on Mat
 
 ## WORK IN PROGRESS
 
-![katerial_041825](screenshots/katerial_042625.png)
+![katerial_latest](screenshots/katerial_042925.png)
 
 - Color scheme: Katerial
 - Application Style: Kvantum (Katerial)
@@ -29,6 +29,5 @@ The goal of this project is to create a modern theme for KDE Plasma based on Mat
 ## To be updated:
 - Plasma Style (?)
 - Cursor (?)
-- Panel
 - SDDM
 - Alternate color schemes
