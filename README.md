@@ -1,13 +1,18 @@
 # Katerial (KDE Material Design Theme)
-Fork of Nova suite for Plasma Desktop (https://github.com/varlesh/nova-kde)
-
-Also pulling in elements from Materia KDE (https://github.com/PapirusDevelopmentTeam/materia-kde)
 
 The goal of this project is to create a modern theme for KDE Plasma based on Material Design, updated for Plasma 6. 
 
-## WORK IN PROGRESS
+Started as a fork of [Nova suite for Plasma Desktop](https://github.com/varlesh/nova-kde). Plasma style is changed the least, I just tweaked the taskbar item backgrounds. Kvantum theme is using the same base svg file, but recolored to match the new color scheme. The SDDM and lookandfeel themes in this repo are untouched since I forked from Nova. I am planning to update those, I just haven't gotten to it. 
 
-![katerial_latest](screenshots/katerial_042925.png)
+Aurorae window decorations are a mix of [Materia KDE](https://github.com/PapirusDevelopmentTeam/materia-kde) icons plus [Utterly Round](https://github.com/HimDek/Utterly-Round-Plasma-Style) decoration. 
+
+The color scheme I recreated from scratch. 
+
+I didn't even bother with icons, [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) is *chef's kiss*. 
+
+## Screenshot:
+
+![katerial_latest](screenshots/katerial_050225.png)
 
 - Color scheme: Katerial
 - Application Style: Kvantum (Katerial)
@@ -27,7 +32,6 @@ The goal of this project is to create a modern theme for KDE Plasma based on Mat
 - (Optional) set wallpaper included in this repo
 
 ## To be updated:
-- Plasma Style (?)
-- Cursor (?)
-- SDDM
-- Alternate color schemes
+- Cursor (I don't hate breeze, but I don't love it)
+- SDDM (procrastinating)
+- Alternate color schemes (if anyone wants a specific color scheme, feel free to raise an issue or PR)
