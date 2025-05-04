@@ -103,8 +103,8 @@ ForegroundPositive=76,175,80
 ForegroundVisited=140,90,204
 
 [General]
-ColorScheme=Katerial
-Name=Katerial
+ColorScheme=Katerial Light Red/Pink
+Name=Katerial Light Red/Pink
 shadeSortColumn=true
 
 [KDE]

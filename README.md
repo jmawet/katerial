@@ -14,10 +14,10 @@ I didn't even bother with icons, [Papirus](https://github.com/PapirusDevelopment
 
 ![katerial_latest](screenshots/katerial_050225.png)
 
-- Color scheme: Katerial
-- Application Style: Kvantum (Katerial)
-- Plasma Style: Katerial
-- Window Decorations: Katerial
+- Color scheme: Katerial Light Red/Pink
+- Application Style: Kvantum (Katerial Light Red/Pink)
+- Plasma Style: Katerial Light
+- Window Decorations: Katerial Light
 - Icons: Papirus
 - Cursor: Breeze Light
 - Wallpaper: Katerial
@@ -30,6 +30,16 @@ I didn't even bother with icons, [Papirus](https://github.com/PapirusDevelopment
 - Install Kvantum, set as application style. In Kvantum, install and load Kvantum/Katerial/ directory
 - Download and install Papirus icon set
 - (Optional) set wallpaper included in this repo
+
+## Available color schemes:
+Plasma style and Aurorae window decorations only need light/dark variants, the rest will use your system color scheme. Colorscheme and Kvantum theme need individual variants. Available variants are:
+
+- Light
+    - Red/Pink
+    - More planned in future but not available yet
+- Dark
+    - No immediate plans to support, but not against it if demand is there
+    
 
 ## To be updated:
 - Cursor (I don't hate breeze, but I don't love it)
