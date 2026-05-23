@@ -43,13 +43,14 @@ You can also download from pling/kde store:
 - (Optional) set wallpaper included in this repo
 
 ## Available color schemes:
-Plasma style and Aurorae window decorations only need light/dark variants, the rest will use your system color scheme. Colorscheme and Kvantum theme need individual variants. Available variants are:
+Plasma style and Aurorae window decorations will adapt based on the color scheme, the rest will use your system color scheme. Colorscheme and Kvantum theme need individual variants. Available variants are:
 
 - Light
     - Red/Pink
     - More planned in future but not available yet
 - Dark
-    - No immediate plans to support, but not against it if demand is there
+    - Red/Pink
+    - More planned in future but not available yet
     
 
 ## To be updated:
