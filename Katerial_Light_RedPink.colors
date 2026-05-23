@@ -21,7 +21,7 @@ IntensityEffect=0
 [Colors:Button]
 BackgroundAlternate=255,255,255
 BackgroundNormal=254,254,254
-DecorationFocus=26,115,232
+DecorationFocus=255,218,212
 DecorationHover=255,218,212
 ForegroundActive=61,174,233
 ForegroundInactive=177,177,177
@@ -91,8 +91,8 @@ ForegroundVisited=140,90,204
 [Colors:Window]
 BackgroundAlternate=255,255,255
 BackgroundNormal=254,254,254
-DecorationFocus=255,255,255
-DecorationHover=254,254,254
+DecorationFocus=255,218,212
+DecorationHover=255,218,212
 ForegroundActive=61,174,233
 ForegroundInactive=177,177,177
 ForegroundLink=96,159,240
